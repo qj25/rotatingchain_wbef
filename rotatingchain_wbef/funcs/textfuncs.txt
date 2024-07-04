@@ -1,0 +1,26 @@
+https://www.matrixcalculus.org
+
+a=v; b=x; y=1x; z=w;
+
+g formula (used for el)
+where g = ((a+z*b) x (b-y)) x (a+z*b)
+((a+z*b)'*(a+z*b))*(b-y) - ((b-y)'*(a+z*b))*(a+z*b)
+
+ed formula
+set w1 as matrix
+-(v+w1*r)/norm2(v+w1*r)
+
+cosine xi formula
+-(b-y)'*(a+z1*b) / (norm2(b-y) * norm2(a+z1*b))
+
+sine xi formula
+set z1 as matrix
+
+for wrt b or y, set a1 as matrix.
+norm2(-a1*(b-y) + ((b-y)'*b)*z - ((b-y)'*z)*b) 
+/ (norm2(b-y) * norm2(a+z1*b))
+
+for wrt a, set b2 as matrix.
+norm2(b2*a + ((b-y)'*b)*z - ((b-y)'*z)*b) 
+/ (norm2(b-y) * norm2(a+z1*b))
+
