@@ -5,10 +5,14 @@ This paper studies the problem of using a robot arm to manipulate a uniformly ro
 Authors: Qi Jing Chen, Shilin Shan, Quang-Cuong Pham
 
 ## Required
-Install 'eigen' package in 'home' root directory.
+Install [`eigen`](http://eigen.tuxfamily.org/index.php?title=Main_Page#Download) package in `home` root directory.
 
 ## Usage
-1. All data and figures saved will be located in 'data' folder.
+Note: All data and figures saved will be located in 'data' folder.
+1. In the root directory of this package, run:
+```
+pip install -e .
+```
 2. Run:
 ```
 cd rotatingchain_wbef/algos/shootingc_cpp
