@@ -11,7 +11,7 @@ from rotatingchain_wbef.utils.space_utils import (
     nearest_id_from_raw,
     expand_freespace
 )
-from rotatingchain.utils.animate_utils import animate_3d
+from rotatingchain_wbef.utils.animate_utils import animate_3d
 
 
 data_plot_type = sys.argv[1]
