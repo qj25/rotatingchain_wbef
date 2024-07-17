@@ -1,6 +1,6 @@
-# Robotic manipulation of a rotating chain with both ends fixed
+# Robotic manipulation of a rotating chain with bottom end fixed
 
-This paper studies the problem of using a robot arm to manipulate a uniformly rotating chain with both ends fixed. We find that the configuration space of such a chain is homeomorphic to a three-dimensional cube. Using this property, we suggest a strategy to manipulate the chain into different configurations, specifically from one mode to another, while taking stability and feasibility into consideration. We demonstrate the effectiveness of our strategy in physical experiments by successfully transitioning from rest to the first two rotation modes. We discuss how the concepts explored in our work has potential applications in the manipulation of drill strings and the yarn spinning process.
+This paper studies the problem of using a robot arm to manipulate a uniformly rotating chain with bottom end fixed. We find that the configuration space of such a chain is homeomorphic to a three-dimensional cube. Using this property, we suggest a strategy to manipulate the chain into different configurations, specifically from one mode to another, while taking stability and feasibility into consideration. We demonstrate the effectiveness of our strategy in physical experiments by successfully transitioning from rest to the first two rotation modes. We discuss how the concepts explored in our work has potential applications in the manipulation of drill strings and the yarn spinning process.
 
 Authors: Qi Jing Chen, Shilin Shan, Quang-Cuong Pham
 
