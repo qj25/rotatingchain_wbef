@@ -4,6 +4,8 @@ This paper studies the problem of using a robot arm to manipulate a uniformly ro
 
 Authors: Qi Jing Chen, Shilin Shan, Quang-Cuong Pham
 
+Video: https://youtu.be/tYJNGgjNYig
+
 ## Required
 Install [`eigen`](http://eigen.tuxfamily.org/index.php?title=Main_Page#Download) package in `home` root directory.
 
